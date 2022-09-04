@@ -11,6 +11,8 @@ Steps
 
 ---
 
+**Manual**
+
 | Key | Description |
 | --- | --- |
 | ↑ | Moves the cursor on the left up. |
