@@ -1,17 +1,17 @@
-# Sudoku
+# **Sudoku**
 
 **HOW TO PLAY**
 
 ---
 
-Steps
+**Steps**
 + Step 1. Execute Sudoku.exe file or compile and run Sudoku.c.
 + Move answer.sudk file and board.sudk file to C:\\NewLand\\Sudoku path.
 + Run Sudoku.exe and play.
 
 ---
 
-**Manual**
+# **Manual**
 
 | Key | Description |
 | --- | --- |
@@ -25,3 +25,10 @@ Steps
 ---
 
 ![title](https://raw.githubusercontent.com/NewLandTV/Sudoku/61bdcbe4786ea1d890ce0fa391e806d54408e734/Screenshot.png)
+
+# **Links(링크)**
+
+* [JkhTV YouTube(장경혁tv)](https://www.youtube.com/@NewLand2019-JkhTV)
+* [NewLand Cafe(New랜드 카페)](https://cafe.naver.com/2019newland)
+* [NewLand Discord(New랜드 디스코드)](https://discord.gg/2J646MaZGA)
+* [JkhTV Tistory(장경혁tv의 티스토리)](https://jkhtv.tistory.com)
