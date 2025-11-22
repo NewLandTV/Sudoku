@@ -1,5 +1,7 @@
 # **Sudoku**
 
+[![Development Note p.143](https://img.youtube.com/vi/-8t1AI_rQwQ/0.jpg)](https://www.youtube.com/watch?v=-8t1AI_rQwQ)
+
 **HOW TO PLAY**
 
 ---
